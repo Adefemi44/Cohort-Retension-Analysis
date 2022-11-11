@@ -9,4 +9,4 @@
  • Assigning cohort Index to each transaction
  • Create cohort table for retention rate
  • Visualize the cohort table using Tableau which is in my tableau public
- • Interpretation of the retention rate
+ • Interpretation of the retention rate.
